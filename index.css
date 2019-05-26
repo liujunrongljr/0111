@@ -1,0 +1,116 @@
+.page1{
+    background:url('images/Fi74lIh5QqGC23PBBLnCV8QFengD.png')
+    no-repeat;
+    background-size: cover;
+}
+.page1 img{
+    position: absolute;
+}
+.page1 img:nth-of-type(1){
+    width: 5.5rem;
+    height: 2.5rem;
+    left: 0rem;
+    right: 0rem;
+    bottom: 0rem;
+}
+.page1 img:nth-of-type(2){
+    width: 3.5rem;
+    height: 3.5rem;
+    left:0rem;
+    top: 1rem;
+}
+.page2{
+    background:url('images/o_1danvrookincnvo3l93va12fjq.png')
+    no-repeat;
+    background-size: cover;
+}
+.page2 img{
+    position: absolute;
+}
+.page2 img:nth-of-type(1){
+    width: 4rem;
+    height: 3.5rem;
+    left: 0.3rem;
+    top: 0.5rem;
+}
+.page2 img:nth-of-type(2){
+    width: 4rem;
+    height: 3.5rem;
+    right: 0.3rem;
+    top: 0.5rem;
+}
+.page2 img:nth-of-type(3){
+    width: 4rem;
+    height: 3.5rem;
+    left:0.3rem;
+    bottom: 0.5rem;
+}
+.page2 img:nth-of-type(4){
+    width: 4rem;
+    height: 3.5rem;
+    right: 0.3rem;
+    bottom: 0.5rem;
+}
+.b{
+    size: 50px;
+    color: pink;
+}
+.page3{
+    background:url('images/o_1danvrooko76jib1lh3lt51pn4l.png')
+    no-repeat;
+    background-size: cover;
+}
+.page3 img{
+    position: absolute;
+}
+.page3 img:nth-of-type(1){
+    width: 3.5rem;
+    height: 3.5rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page3 img:nth-of-type(2){
+    width: 3.5rem;
+    height: 3.5rem;
+    right: 0rem;
+    top: 0rem;
+}
+.page3 img:nth-of-type(3){
+    width: 3.5rem;
+    height: 3.5rem;
+    right: 0rem;
+    bottom: 0rem;
+}
+.page3 img:nth-of-type(4){
+    width: 3.5rem;
+    height: 3.5rem;
+    left: 0rem;
+    bottom: 0rem;
+}
+.page4{
+    background:url('images/o_1danvrookt331f01pgg1k9f1ruqp.png')
+    no-repeat;
+    background-size: cover;
+}
+.page4 img{
+    position: absolute;
+}
+.page4 img:nth-of-type(1){
+     width:4.5rem;
+     height:5rem;
+     right:0rem;
+     top: 0rem;
+
+}
+.page4 img:nth-of-type(2){
+    width: 3.5rem;
+    height: 3.5rem;
+    left:0rem;
+    bottom: 1rem;
+}
+.page4 img:nth-of-type(3){
+    width: 2.5rem;
+    height: 2.5rem;
+    left: 0rem;
+    top: 0rem;
+}
